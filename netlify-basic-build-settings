@@ -1,0 +1,10 @@
+# Basic build settings (netlify)
+
+base directory
+client
+
+build command
+CI = false npm run build
+
+publish directory
+client/build
